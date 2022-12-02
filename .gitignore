@@ -1,0 +1,7 @@
+/.cache
+/.parcel-cache
+/.vscode
+/shaders
+start.sh
+/node_modules
+/dist
